@@ -1,8 +1,6 @@
 ---
 title: "publications list"
-author:
-  - The Zettlr Team
-  - Framatophe (trad.)
+author: t-lereun
 date: 2020-07-04
 id: publications
 
